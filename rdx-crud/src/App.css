@@ -1,0 +1,48 @@
+
+
+
+
+ 
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.addUser{
+  text-align: center;
+}
+ input{
+display: block;
+width: 200px;
+height: 30px;
+
+
+margin-top: 10px;
+border: none;
+background-color: rgb(199, 199, 199);
+outline: none;
+
+}
+ button{
+  display: block;
+  width: 200px;
+  height: 30px;
+ 
+  margin-top: 10px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgb(225, 165, 35);
+
+}
+
+.user{
+  width: 200px;
+ 
+ margin-top: 15px;
+  background-color: rgb(207, 237, 227);
+  box-shadow:  5px 10px 8px #888888;
+padding: 10px;
+margin-bottom: 5px;
+text-align: center;
+}
